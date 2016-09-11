@@ -1,0 +1,6 @@
+#embed("embeds/header")
+
+#embed("embeds/nav")
+
+<div>Splash Image</div>
+<div>Content</div>
