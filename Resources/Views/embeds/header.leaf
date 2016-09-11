@@ -1,7 +1,5 @@
 <head>
-	<style>
-		body {
-			font-family: -apple-system, sans-serif;
-		}
-	</style>
+    <link rel="stylesheet" type="text/css" href="styles/bootstrap.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="styles/bootstrap-theme.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="styles/app.css" media="screen" />
 </head>
